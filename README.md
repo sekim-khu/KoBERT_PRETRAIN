@@ -1,2 +1,2 @@
-# KoBERT_PRETRAIN
-kobert pretrain
+# KoLM_PRETRAIN
+KoLM_PRETRAIN
