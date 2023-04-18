@@ -3,3 +3,5 @@ data
 tokenizer*
 mlruns
 runs
+.*_cache
+gpt2_tokenized_datasets/
