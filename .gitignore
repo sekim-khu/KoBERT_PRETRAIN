@@ -5,3 +5,4 @@ mlruns
 runs
 .*_cache
 gpt2*
+bart*
